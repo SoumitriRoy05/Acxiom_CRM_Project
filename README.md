@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AcxiomCRM — Enterprise Customer Relationship Management Platform
 
 A role-based, production-structured Customer Relationship Management (CRM) web application built with **Java (Spring Boot 3.3.4)**, **Spring Security (JWT + BCrypt)**, **Hibernate / JPA**, and a **React 18 + Vite** frontend.
@@ -219,3 +220,6 @@ mvn test
 | `GET` | `/api/users` | List application users | Admin / Manager |
 | `POST` | `/api/users/{id}/unlock`| Unlock locked user account | Admin only |
 | `GET` | `/api/audit-logs` | Query append-only audit trail | Admin / Manager |
+=======
+# Acxiom_CRM_Project
+>>>>>>> origin/main
